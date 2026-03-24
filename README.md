@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007FFF&height=200&section=header&text=Malik%20Alijanov&fontSize=60&fontAlignY=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=220&section=header&text=Malik%20Alijanov&fontSize=65&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Frontend+%26+React+Native+Expert;Mobile+App+Architect;Clean+Architecture+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Mobile+App+Architect;React+Native+Specialist;Frontend+Expert;Clean+Architecture+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 Mazya Vishat Swagat Aahe!
+### 🚀 Haqqımda (About Me)
 
-Mi **Malik Alijanov**, ek passionate **Frontend ani React Native Developer** aahe. Mi uccha-performance mobile applications, modern UI libraries ani scalable architectures banavnyat tadjna aahe.
+Mən **Malik Alijanov**, peşəkar **Frontend və React Native** tərtibatçısıyam. Yüksək performanslı mobil proqramlar və miqyaslana bilən arxitekturalar qururam.
 
-- ⚡ **Performance:** 60fps animations ani bundle optimization madhe vishesh ras.
-- 📱 **Mobile:** React Native CLI, Reanimated ani Native Bridges madhe expert.
-- 🧩 **Architecture:** Clean Architecture ani SOLID tatvancha puraskarta.
-- 🎓 **Mentorship:** Navin developersna madat karnyachi avad.
+- ⚡ **Performans:** 60fps animasiyalar və optimallaşdırma.
+- 📱 **Mobil:** React Native CLI, Reanimated və Native Bridges eksperti.
+- 🧩 **Arxitektura:** Clean Architecture və SOLID tərəfdarı.
+- 🎓 **Mentorluq:** Yeni nəsil proqramçılara dəstək.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Texnologiyalar (Tech Stack)
 
-### 📱 Mobile & Frontend
+#### 📱 Mobile & Frontend
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -29,51 +29,48 @@ Mi **Malik Alijanov**, ek passionate **Frontend ani React Native Developer** aah
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-### 🎨 UI & Styling
+#### 🎨 Dizayn & Stil
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 📱 Vishesh Projects
+### 📂 Seçilmiş Layihələr (Highlighted Projects)
 
-| Project | Description | Tech Stack |
+| Layihə | Təsvir | Texnologiya |
 | :--- | :--- | :--- |
-| **Tripocell** | Pravas ani paryatan platform. | `React Native`, `API` |
-| **Easyholi** | Sutti ani booking management. | `TypeScript`, `UI/UX` |
-| **Helplly** | Medical/Insurance assistant. | `Native Bridges`, `Redux` |
-| **Alousda** | Modern e-commerce solution. | `React Native`, `State Mgmt` |
-| **Flyex Cargo** | Cargo tracking ani logistics. | `Maps`, `Real-time` |
-| **Aser Cargo** | Global cargo management system. | `Clean Arch`, `Forms` |
+| **Tripocell** | Səyahət və turizm platforması. | `RN CLI`, `Maps` |
+| **Easyholi** | Bayram və tətil planlama sistemi. | `TypeScript`, `UI/UX` |
+| **Helplly** | Tibbi və sığorta assistent platforması. | `Native Bridges`, `Reanimated` |
+| **Alousda** | Müasir e-ticarət həlli. | `Redux Toolkit`, `API` |
+| **Flyex Cargo** | Sürətli karqo və izləmə sistemi. | `Real-time Tracking` |
+| **Aser Cargo** | Beynəlxalq logistika idarəetməsi. | `Clean Arch`, `Forms` |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Statistikası (All Time)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alicanov98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alicanov98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicanov98&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alicanov98&bg_color=0d1117&color=36BCF7&line=0077B5&point=36BCF7&area=true&hide_border=true" />
+</p>
+
 ---
 
-## 🌐 Mazya Sobat Joda
+### 🌐 Əlaqə & Əməkdaşlıq
 
 <p align="center">
-  <a href="https://linkedin.com/in/alicanov98">
+  <a href="https://linkedin.com/in/alidjanoff">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alicanov98@gmail.com">
+  <a href="mailto:alidjanoff@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/alicanov98">
@@ -82,5 +79,5 @@ Mi **Malik Alijanov**, ek passionate **Frontend ani React Native Developer** aah
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007FFF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0077B5,100:36BCF7&section=footer" />
 </p>
