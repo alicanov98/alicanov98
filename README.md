@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=220&section=header&text=Malik%20Alijanov&fontSize=65&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007FFF&height=200&section=header&text=Malik%20Alijanov&fontSize=60&fontAlignY=45&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Mobile+App+Architect;React+Native+Specialist;Frontend+Expert;Clean+Architecture+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Frontend+%26+React+Native+Expert;Mobile+App+Architect;Clean+Architecture+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Haqqımda (About Me)
+## 👋 Mazya Vishat Swagat Aahe!
 
-Mən **Malik Alijanov**, Azərbaycandan olan peşəkar **Frontend və React Native** tərtibatçısıyam. Yüksək performanslı mobil proqramların hazırlanması, müasir UI kitabxanalarının qurulması və miqyaslana bilən arxitekturaların yaradılması üzrə ixtisaslaşmışam.
+Mi **Malik Alijanov**, ek passionate **Frontend ani React Native Developer** aahe. Mi uccha-performance mobile applications, modern UI libraries ani scalable architectures banavnyat tadjna aahe.
 
-- ⚡ **Performans:** 60fps animasiyalar və bundle optimallaşdırılması üzrə təcrübəli.
-- 📱 **Mobil:** React Native CLI, Reanimated və Native Bridges üzrə ekspert.
-- 🧩 **Arxitektura:** Clean Architecture və SOLID prinsiplərinin tərəfdarı.
-- 🎓 **Mentorluq:** Yeni nəsil proqramçıların yetişməsinə dəstək.
+- ⚡ **Performance:** 60fps animations ani bundle optimization madhe vishesh ras.
+- 📱 **Mobile:** React Native CLI, Reanimated ani Native Bridges madhe expert.
+- 🧩 **Architecture:** Clean Architecture ani SOLID tatvancha puraskarta.
+- 🎓 **Mentorship:** Navin developersna madat karnyachi avad.
 
 ---
 
-### 🛠 Texnologiyalar (Tech Stack)
+## 🛠 Tech Stack
 
-#### 📱 Mobile & Frontend
+### 📱 Mobile & Frontend
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -29,14 +29,14 @@ Mən **Malik Alijanov**, Azərbaycandan olan peşəkar **Frontend və React Nati
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-#### 🎨 Dizayn & Stil
+### 🎨 UI & Styling
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-#### ⚙️ Alətlər
+### ⚙️ Tools
 <p>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -45,20 +45,20 @@ Mən **Malik Alijanov**, Azərbaycandan olan peşəkar **Frontend və React Nati
 
 ---
 
-### 📂 Seçilmiş Layihələr (Highlighted Projects)
+## 📱 Vishesh Projects
 
-| Layihə | Təsvir | Texnologiya |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Tripocell** | Səyahət və turizm platforması. | `RN CLI`, `Maps` |
-| **Easyholi** | Bayram və tətil planlama sistemi. | `TypeScript`, `UI/UX` |
-| **Helplly** | Tibbi və sığorta assistent platforması. | `Native Bridges`, `Reanimated` |
-| **Alousda** | Müasir e-ticarət həlli. | `Redux Toolkit`, `API` |
-| **Flyex Cargo** | Sürətli karqo və izləmə sistemi. | `Real-time Tracking` |
-| **Aser Cargo** | Beynəlxalq logistika idarəetməsi. | `Clean Arch`, `Forms` |
+| **Tripocell** | Pravas ani paryatan platform. | `React Native`, `API` |
+| **Easyholi** | Sutti ani booking management. | `TypeScript`, `UI/UX` |
+| **Helplly** | Medical/Insurance assistant. | `Native Bridges`, `Redux` |
+| **Alousda** | Modern e-commerce solution. | `React Native`, `State Mgmt` |
+| **Flyex Cargo** | Cargo tracking ani logistics. | `Maps`, `Real-time` |
+| **Aser Cargo** | Global cargo management system. | `Clean Arch`, `Forms` |
 
 ---
 
-### 📊 GitHub Statistikası
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=malikalijanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -67,7 +67,7 @@ Mən **Malik Alijanov**, Azərbaycandan olan peşəkar **Frontend və React Nati
 
 ---
 
-### 🌐 Əlaqə & Əməkdaşlıq
+## 🌐 Mazya Sobat Joda
 
 <p align="center">
   <a href="https://linkedin.com/in/malikalijanov">
@@ -82,5 +82,5 @@ Mən **Malik Alijanov**, Azərbaycandan olan peşəkar **Frontend və React Nati
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0077B5,100:36BCF7&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007FFF&section=footer" />
 </p>
