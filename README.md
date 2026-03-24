@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007FFF,100:00D4FF&height=230&section=header&text=Teo%20Alidjanoff&fontSize=55&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007FFF,100:00D4FF&height=230&section=header&text=Malik%20Alijanov&fontSize=55&fontAlignY=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
